@@ -1,8 +1,12 @@
 # 1337 Piscine 
-sharing my piscine experience at 1337 coding school powered by 42network , 1 month of discipline and dive into C language , solve mini projects with 100% peer learning , its working on mini projects like C00.
+### Sharing My Piscine Journey at 1337 Coding School (42 Network)
 
-every friday you need to practice what you learn , 4 hours to solve mini problems with no internet .
+Over the course of a month, I immersed myself in a rigorous and rewarding experience at 1337 Coding School, part of the 42 Network. The focus was on mastering the fundamentals of C language through intense discipline and self-learning.
 
-finaly is a final exam , 8 hour to practice what you learn in full month .
+Every task was a mini project, like C00, designed to challenge us while promoting 100% peer learning. No traditional instructors—just fellow coders helping each other out. It was all about collaboration, problem-solving, and improving through feedback.
+
+Fridays were dedicated to practical challenges. For four hours, we had to solve problems without any external resources or internet access, testing our knowledge and adaptability.
+
+The month concluded with the final exam: eight hours of applying everything we had learned. It was the ultimate test of skill, persistence, and growth over the entire month of Piscine.
 
 If you're a 42 pisciner, it's highly recommended that you go through the process of writing your own code and testing it yourself rather than copying and pasting code that you only partially understand.
