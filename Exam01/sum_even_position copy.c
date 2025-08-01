@@ -6,7 +6,7 @@ int sum_even_position(char *str)
     int sum = 0;
     while (str[i])
     {
-        if (i % 2 == 0)
+        if (i % 2 == 0 && str[i] >= '0' && str[i] <= '9')
             sum += str[i] - '0';
         i++;
     }
@@ -15,4 +15,6 @@ int sum_even_position(char *str)
 int main()
 {
     printf("%d\n", sum_even_position("12345"));
+    printf("%d\n", sum_even_position("h2345"));
+    printf("%d\n", sum_even_position("12hhh"));
 }
